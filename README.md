@@ -29,3 +29,13 @@
 # Contexto da aplicação
 
 https://www.figma.com/community/file/1218573349379609244
+
+# Postman Collection para testar as rotas
+
+Basta importar o arquivo Daily Diet Api.postman_collection.json no seu postman e testar as Rotas
+
+# Como inicializar a aplicação
+
+- yarn install
+
+- yarn dev
